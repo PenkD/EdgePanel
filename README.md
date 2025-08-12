@@ -19,9 +19,26 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [ ] mini notepad? 
 
+[+] rounded corners
+
+[+] always on top
+
+[ ] shortcuts for different apps like, sp0tify, internet, and more!.
+
 [ ] 
-
-
- currently, this is the sidebar button
  
- <img width="115" height="277" alt="image" src="https://github.com/user-attachments/assets/a7d1915d-3dba-4c42-8208-7a5f8abbd792" />
+BUGS:
+[fixed] dissapearing in the background
+[solving] random crashes 
+
+
+
+
+ currently, this is the sidebar button (temp changed to blue for better visibility) 
+ 
+ <img width="142" height="255" alt="image" src="https://github.com/user-attachments/assets/e7e03231-a842-4d80-9d72-304c7b3cbe54" />
+
+
+ Main UI - will obv be much different once released and more functions
+
+<img width="428" height="698" alt="image" src="https://github.com/user-attachments/assets/c5b38e4c-b2c5-4024-943a-d0d3d54d9c93" />
