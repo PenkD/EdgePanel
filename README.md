@@ -28,6 +28,10 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [ ] mini chatgpt? - (costs money for extended use from the api key)
 
+[-] shortcut to launche Lunar client
+
+
+
 
 
 BUGS:
