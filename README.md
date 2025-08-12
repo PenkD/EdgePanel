@@ -10,11 +10,14 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [X] added customizable background color
 
-[WORKING ON] media player
+[+] media player // finished
 
 [WORKING ON] reduce ram and cpu usage
 
 [FUTURE UPDATE] animations (maybe if uses low cpu and ram)
+
+
+[ ] add 
 
 [-] add more features
 
@@ -30,6 +33,9 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [-] shortcut to launche Lunar client
 
+[?] cpu usage // disable when closed
+
+[?] ram usage // disable when closed
 
 
 
@@ -39,6 +45,8 @@ BUGS:
 [solving] random crashes 
 [solving] settings stays ontop despite clicking the launcher.
 
+
++ I've spent around 6h on this project 
 
 
 
