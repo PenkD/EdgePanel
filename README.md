@@ -50,4 +50,5 @@ BUGS:
 
  Main UI - will obv be much different once released and more functions
 
-<img width="428" height="698" alt="image" src="https://github.com/user-attachments/assets/c5b38e4c-b2c5-4024-943a-d0d3d54d9c93" />
+<img width="412" height="688" alt="image" src="https://github.com/user-attachments/assets/27921f58-965b-4f14-a34b-c8b947563733" />
+
