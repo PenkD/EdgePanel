@@ -43,12 +43,4 @@ BUGS:
 
 
 
- currently, this is the sidebar button (temp changed to blue for better visibility) 
- 
- <img width="142" height="255" alt="image" src="https://github.com/user-attachments/assets/e7e03231-a842-4d80-9d72-304c7b3cbe54" />
-
-
- Main UI - will obv be much different once released and more functions
-
-<img width="412" height="688" alt="image" src="https://github.com/user-attachments/assets/27921f58-965b-4f14-a34b-c8b947563733" />
 
