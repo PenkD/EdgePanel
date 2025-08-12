@@ -5,6 +5,7 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 
 
+
 [-] kinda made the GUI
 
 [X] added customizable background color
@@ -25,11 +26,15 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [ ] shortcuts for different apps like, sp0tify, internet, and more!.
 
-[ ] 
- 
+[ ] mini chatgpt? - (costs money for extended use from the api key)
+
+
+
 BUGS:
 [fixed] dissapearing in the background
 [solving] random crashes 
+[solving] settings stays ontop despite clicking the launcher.
+
 
 
 
