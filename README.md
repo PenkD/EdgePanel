@@ -3,5 +3,5 @@
 
 Based on Samsung's edge panel, reimagined for Windows.
 
-- kinda made the GUI's
+- kinda made the GUI
 - like 20% complete 
