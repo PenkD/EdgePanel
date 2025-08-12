@@ -6,15 +6,15 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 
 
-[-] kinda made the GUI
+[- +] GUI is 80% complete
 
 [X] added customizable background color
 
-[ ] media player
+[WORKING ON] media player
 
-[-] reduce ram and cpu usage
+[WORKING ON] reduce ram and cpu usage
 
-[ ] animations (maybe if uses low cpu and ram)
+[FUTURE UPDATE] animations (maybe if uses low cpu and ram)
 
 [-] add more features
 
@@ -24,7 +24,7 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [+] always on top
 
-[ ] shortcuts for different apps like, sp0tify, internet, and more!.
+[+] shortcuts for different apps like, sp0tify, internet, and more!. // done
 
 [ ] mini chatgpt? - (costs money for extended use from the api key)
 
