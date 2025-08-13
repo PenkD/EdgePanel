@@ -31,7 +31,7 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 [ ] mini chatgpt? - (costs money for extended use from the api key)
 
-[-] shortcut to launche Lunar client
+[+] shortcut to launche Lunar client
 
 [?] cpu usage // disable when closed
 
@@ -42,7 +42,7 @@ Based on Samsung's edge panel, reimagined for Windows.
 
 BUGS:
 [fixed] dissapearing in the background
-[solving] random crashes 
+[fixed] random crashes 
 [solving] settings stays ontop despite clicking the launcher.
 
 
